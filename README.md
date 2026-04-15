@@ -2,8 +2,8 @@
 ### A Machine Learning Approach to Identify At-Risk Students
 
 **UFCEKP-30-3 — Data Science and AI Individual Project**  
-**Benedict Kefa Purnomo · 25049053 · UWE Bristol**  
-**Supervisor: Dr. Ethan Lee**
+**Ben Kefa ** · 25****53 · UWE Bristol**  
+**Supervisor: Dr. Ethan**
 
 ---
 
