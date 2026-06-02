@@ -2,7 +2,7 @@
 
 **Module:** UFCEKP-30-3 — Data Science and AI Individual Project  
 **Institution:** University of the West of England (UWE Bristol)  
-**Student:** Benedict Kefa Purnomo (25049053)  
+**Student:** Benedict Kefa Purnomo  
 **Supervisor:** Dr. Ethan Lee  
 **Dataset:** [Open University Learning Analytics Dataset (OULAD)](https://analyse.kmi.open.ac.uk/open_dataset) — Kuzilek, Hlosta & Zdrahal (2017)
 
